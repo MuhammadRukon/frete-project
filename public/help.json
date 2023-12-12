@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "id": 1,
+    "date": "2023-12-01",
+    "status": "active"
+  },
+  {
+    "name": "Alice Smith",
+    "id": 2,
+    "date": "2023-11-30",
+    "status": "blocked"
+  },
+  {
+    "name": "Bob Johnson",
+    "id": 3,
+    "date": "2023-11-29",
+    "status": "active"
+  },
+  {
+    "name": "Eva Williams",
+    "id": 4,
+    "date": "2023-11-28",
+    "status": "blocked"
+  },
+  {
+    "name": "Michael Brown",
+    "id": 5,
+    "date": "2023-11-27",
+    "status": "active"
+  }
+]
